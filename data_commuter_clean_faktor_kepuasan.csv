@@ -1,0 +1,385 @@
+﻿No. Responden,A.1,A.2,A.3,A.4,A.5,A.6,B.1,B.2,C.1,C.2,C.3,C.4,D.1,D.2,D.3,D.4,D.5,E.1,E.2,E.3,F.1,F.2,F.3,F.4,F.5,F.6,F.7,F.8,Kepuasan Hidup,Gender,Status,Pekerjaan,Kepuasan_F6
+1,1,30,1,3,1,1,4,4,1,1,2,2.0,4,4,4,2500000,178.57,4,4,5,4,3,4,4,4,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+2,1,40,1,3,1,5,4,5,2,2,4,2.0,4,4,5,1200000,85.71,4,5,4,4,3,4,4,5,4,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+3,1,38,1,3,1,5,4,4,1,2,3,3.0,3,4,5,1600000,114.29,4,4,5,5,4,4,3,3,3,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+4,1,27,2,3,1,5,5,4,2,2,4,2.0,4,4,5,1500000,107.14,4,5,4,4,5,5,4,3,4,5,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+5,2,28,2,3,1,5,5,5,3,2,5,1.67,5,4,5,1200000,85.71,4,5,4,4,4,5,3,4,5,5,4,Sangat Tidak Puas,Perempuan,Single,Lainnya,1
+6,1,37,1,2,1,5,4,4,1,2,3,3.0,4,4,5,2000000,142.86,4,4,5,4,3,4,5,4,4,5,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+7,1,25,2,3,1,5,4,4,1,3,4,4.0,4,4,5,1500000,107.14,4,4,5,4,4,3,4,3,4,4,5,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+8,2,27,2,3,1,3,3,4,3,1,4,1.33,4,4,5,2000000,142.86,4,4,3,4,4,5,5,4,3,4,3,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,3
+9,1,40,1,3,1,3,3,5,2,2,4,2.0,4,4,5,1800000,128.57,4,4,3,4,4,3,5,4,4,3,5,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+10,1,27,2,3,1,5,4,4,2,2,4,2.0,4,5,5,1500000,107.14,4,4,5,3,4,3,3,4,3,4,4,Biasa,Laki-laki,Single,Lainnya,3
+11,1,45,1,2,1,5,3,4,2,3,5,2.5,3,4,5,1800000,128.57,3,4,4,3,4,4,3,4,4,3,4,Biasa,Laki-laki,Menikah,Lainnya,2
+12,1,38,1,3,1,3,3,5,1,3,4,4.0,3,4,4,1600000,114.29,4,4,4,4,3,4,5,4,4,5,5,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+13,1,25,2,3,1,5,3,5,2,2,4,2.0,3,4,5,1200000,85.71,4,4,5,4,4,3,4,5,3,4,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,3
+14,2,30,1,3,1,5,2,4,2,1,3,1.5,4,4,4,1500000,107.14,4,4,4,4,4,4,4,4,4,3,3,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,2
+15,1,28,2,3,1,5,3,4,2,3,5,2.5,4,4,3,1500000,107.14,4,4,4,4,3,4,4,4,4,3,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+16,1,38,1,3,1,5,3,4,1,2,3,3.0,4,4,5,1600000,114.29,4,4,5,4,4,5,4,4,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+17,1,39,1,3,1,5,4,4,1,2,3,3.0,4,4,4,1800000,128.57,4,4,5,4,4,3,4,4,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+18,1,40,1,2,1,5,3,4,2,2,4,2.0,3,4,4,2000000,142.86,4,4,4,4,4,3,4,5,4,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+19,1,40,1,3,1,2,3,5,1,3,4,4.0,3,4,5,3000000,214.29,4,4,3,4,4,3,4,5,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,2
+20,1,38,1,3,1,5,3,4,1,2,3,3.0,3,4,5,1600000,114.29,4,4,5,4,3,4,5,4,4,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+21,1,38,1,2,1,4,5,5,1,3,4,4.0,4,5,5,2500000,178.57,5,5,5,2,3,4,4,3,4,3,3,Sangat Puas,Laki-laki,Menikah,Wiraswasta,2
+22,1,45,1,3,1,1,2,5,4,1,5,1.25,4,4,5,3000000,214.29,5,5,4,5,4,4,5,3,4,5,5,Sangat Tidak Puas,Laki-laki,Menikah,PNS,2
+23,1,36,1,3,1,3,4,4,2,3,5,2.5,4,5,5,1200000,85.71,4,5,4,4,5,5,4,4,5,5,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,1
+24,1,20,2,3,1,3,5,4,2,1,3,1.5,4,3,5,1200000,85.71,5,4,4,4,4,5,5,4,5,4,3,Sangat Tidak Puas,Laki-laki,Single,Pegawai swasta,1
+25,1,28,2,3,1,5,4,5,2,2,4,2.0,3,5,5,1500000,107.14,4,5,4,4,3,4,5,5,4,4,3,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+26,1,23,1,3,1,5,3,5,1,2,3,3.0,3,4,5,1500000,107.14,4,4,5,4,3,3,4,4,5,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,1
+27,1,23,1,3,2,3,4,5,1,1,2,2.0,4,4,4,2500000,178.57,5,4,5,4,5,5,5,4,5,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,1
+28,1,23,2,3,1,5,5,3,1,0,1,1.0,4,3,2,1800000,128.57,4,3,3,4,3,4,2,4,2,4,2,Sangat Tidak Puas,Laki-laki,Single,Lainnya,4
+29,1,43,1,3,1,3,4,5,3,1,4,1.33,4,4,4,2000000,142.86,4,3,4,4,4,5,4,5,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+30,1,36,3,3,1,3,4,5,1,1,2,2.0,4,4,3,3500000,250.0,4,4,5,4,4,5,5,5,4,5,4,Sangat Tidak Puas,Laki-laki,Duda,Pegawai swasta,2
+31,1,28,2,4,1,5,4,5,1,0,1,1.0,4,4,5,1700000,121.43,4,4,5,4,4,4,5,5,4,5,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+32,2,26,1,5,1,1,4,4,2,1,3,1.5,4,4,4,5000000,357.14,4,4,4,4,3,3,3,3,3,2,3,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+33,1,39,1,3,1,5,4,3,2,2,4,2.0,4,4,4,2000000,142.86,4,3,2,5,3,2,2,4,3,4,2,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+34,1,27,2,4,1,3,4,4,1,0,1,1.0,4,4,4,3000000,214.29,4,4,4,4,3,3,3,3,3,2,3,Sangat Tidak Puas,Laki-laki,Single,Pegawai swasta,3
+35,1,32,1,4,1,3,4,5,2,2,4,2.0,4,4,5,1500000,107.14,5,4,4,3,4,4,5,4,5,4,4,Biasa,Laki-laki,Menikah,Pegawai swasta,1
+36,2,29,1,3,3,5,4,3,2,1,3,1.5,4,4,5,1500000,107.14,4,4,5,4,4,5,4,4,5,4,4,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,1
+37,1,28,1,3,1,3,4,4,2,1,3,1.5,4,4,5,2000000,142.86,4,4,5,4,4,4,5,3,4,5,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+38,1,30,1,3,1,5,4,5,2,2,4,2.0,4,4,5,1000000,71.43,4,4,3,4,4,5,4,5,4,5,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+39,2,23,1,4,1,3,4,5,2,0,2,1.0,5,4,5,2800000,200.0,4,4,4,4,4,4,4,4,5,4,5,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,1
+40,1,23,2,3,1,5,4,5,1,0,1,1.0,4,2,4,1500000,107.14,4,3,3,3,3,4,3,3,4,3,4,Biasa,Laki-laki,Single,Lainnya,2
+41,1,25,1,3,1,5,5,4,1,2,3,3.0,5,4,4,2500000,178.57,4,4,3,5,4,4,4,5,4,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+42,2,23,2,5,1,1,4,5,1,0,1,1.0,4,3,4,2500000,178.57,4,4,3,4,3,3,3,4,3,4,4,Sangat Tidak Puas,Perempuan,Single,PNS,3
+43,1,45,1,3,1,4,5,4,2,3,5,2.5,5,4,4,4000000,285.71,4,3,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+44,1,22,2,3,1,2,4,4,1,0,1,1.0,4,4,4,2800000,200.0,4,4,4,4,4,3,4,3,3,2,3,Sangat Tidak Puas,Laki-laki,Single,Polisi/Militer,3
+45,2,35,1,5,1,4,5,5,2,3,5,2.5,4,3,4,7000000,500.0,4,4,3,3,3,2,2,2,4,3,4,Biasa,Perempuan,Menikah,Wiraswasta,2
+46,1,36,1,5,1,4,5,5,2,3,5,2.5,4,3,4,7000000,500.0,4,4,3,3,3,2,2,2,4,3,4,Biasa,Laki-laki,Menikah,Wiraswasta,2
+47,1,40,1,2,1,3,4,4,1,4,5,5.0,3,3,4,3000000,214.29,3,3,3,3,3,3,3,4,3,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+48,1,38,1,5,1,4,4,4,1,3,4,4.0,4,4,4,3500000,250.0,4,4,4,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+49,1,35,1,5,1,3,4,4,1,2,3,3.0,3,3,3,2000000,142.86,4,3,3,3,4,4,3,3,3,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+50,2,27,1,3,1,5,4,5,2,2,4,2.0,5,5,4,2500000,178.57,4,4,4,4,5,4,4,5,4,4,4,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,2
+51,1,50,1,1,1,5,3,4,1,3,4,4.0,3,3,2,3500000,250.0,3,3,3,3,3,3,3,3,3,4,4,Biasa,Laki-laki,Menikah,Lainnya,3
+52,1,28,1,3,1,4,4,4,1,2,3,3.0,3,3,3,3000000,214.29,3,3,3,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+53,1,31,1,2,1,5,3,3,2,0,2,1.0,3,3,2,1700000,121.43,3,2,3,3,3,3,3,3,4,4,3,Biasa,Laki-laki,Menikah,Lainnya,2
+54,1,45,1,3,1,3,3,3,1,4,5,5.0,3,3,4,3000000,214.29,3,3,3,3,3,3,3,3,3,4,4,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+55,1,45,1,3,1,3,4,4,2,2,4,2.0,3,4,4,4000000,285.71,4,4,4,3,2,2,2,2,2,3,4,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+56,1,27,1,3,1,5,5,4,1,2,3,3.0,5,4,3,2300000,164.29,5,4,5,4,4,5,5,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+57,2,34,1,3,1,5,4,3,2,2,4,2.0,4,3,3,2000000,142.86,4,3,2,3,4,2,2,3,4,4,2,Biasa,Perempuan,Menikah,Lainnya,2
+58,2,40,1,3,2,4,2,3,2,3,5,2.5,3,3,4,4000000,285.71,3,4,4,4,3,1,3,1,3,3,3,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,3
+59,1,27,1,4,1,3,4,4,2,0,2,1.0,4,4,4,2500000,178.57,4,4,4,4,3,3,3,3,3,2,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+60,2,29,1,4,1,3,5,4,2,2,4,2.0,5,4,4,2200000,157.14,5,4,5,4,5,4,5,4,4,4,4,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+61,1,39,1,3,1,3,4,4,2,2,4,2.0,3,4,4,3000000,214.29,4,5,4,4,3,2,3,2,3,2,3,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+62,1,27,1,5,1,3,4,5,1,1,2,2.0,4,3,4,2000000,142.86,4,4,3,4,4,4,4,5,4,5,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+63,2,22,2,3,1,3,4,5,1,0,1,1.0,3,4,4,2500000,178.57,4,4,3,4,2,3,3,3,2,3,2,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,4
+64,2,31,2,5,2,3,5,4,1,0,1,1.0,4,4,5,5000000,357.14,4,4,5,4,4,3,4,3,5,3,4,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,1
+65,2,23,2,3,1,3,4,4,1,0,1,1.0,4,4,4,2000000,142.86,4,4,4,4,4,4,4,3,3,2,3,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,3
+66,1,50,1,4,1,1,4,3,1,4,5,5.0,4,4,4,4000000,285.71,3,3,3,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,PNS,2
+67,1,47,1,3,2,4,2,4,2,3,5,2.5,3,3,4,4000000,285.71,3,4,4,4,3,1,3,1,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+68,2,28,1,4,1,3,4,5,2,1,3,1.5,4,4,2,2000000,142.86,4,3,4,4,3,4,4,4,4,4,3,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+69,1,24,2,3,1,5,3,3,3,3,6,2.0,3,4,4,1800000,128.57,4,4,5,3,4,4,3,4,4,4,3,Biasa,Laki-laki,Single,Lainnya,2
+70,1,45,1,2,1,5,4,4,3,3,6,2.0,3,4,4,1600000,114.29,4,4,5,3,3,4,4,3,4,5,4,Biasa,Laki-laki,Menikah,Lainnya,2
+71,1,29,1,3,1,5,4,4,2,3,5,2.5,3,3,4,1800000,128.57,4,4,5,3,4,4,3,4,4,3,4,Biasa,Laki-laki,Menikah,Lainnya,2
+72,1,23,2,3,1,5,4,4,2,3,5,2.5,3,4,4,1500000,107.14,4,4,4,3,4,4,3,3,4,4,3,Biasa,Laki-laki,Single,Lainnya,2
+73,1,32,1,2,1,5,4,4,1,2,3,3.0,3,3,4,1800000,128.57,5,5,4,3,4,4,3,4,4,3,4,Biasa,Laki-laki,Menikah,Lainnya,2
+74,1,24,2,3,1,5,3,3,2,2,4,2.0,3,4,4,1500000,107.14,4,4,5,3,3,4,4,3,3,3,4,Biasa,Laki-laki,Single,Lainnya,3
+75,1,25,2,3,1,5,3,3,3,1,4,1.33,3,4,4,1500000,107.14,4,4,4,3,3,4,3,3,4,3,4,Biasa,Laki-laki,Single,Lainnya,2
+76,1,30,2,3,1,5,4,4,2,2,4,2.0,3,3,4,1500000,107.14,4,4,3,3,3,4,4,5,4,3,3,Biasa,Laki-laki,Single,Lainnya,2
+77,1,23,2,3,1,5,3,4,2,1,3,1.5,3,4,4,1400000,100.0,4,4,5,3,4,4,3,4,4,3,4,Biasa,Laki-laki,Single,Lainnya,2
+78,1,23,2,3,1,5,3,4,2,3,5,2.5,3,4,4,1200000,85.71,4,4,4,3,4,3,3,4,4,3,4,Biasa,Laki-laki,Single,Lainnya,2
+79,1,30,1,3,1,5,3,3,2,2,4,2.0,4,4,3,1800000,128.57,4,4,4,3,3,4,3,4,4,3,4,Biasa,Laki-laki,Menikah,Lainnya,2
+80,1,25,1,3,1,3,3,4,2,2,4,2.0,3,3,4,1800000,128.57,4,4,4,3,3,4,4,3,4,4,4,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+81,2,28,1,3,1,5,3,5,2,1,3,1.5,3,4,5,1200000,85.71,4,4,4,3,3,4,3,3,4,4,3,Biasa,Perempuan,Menikah,Lainnya,2
+82,1,40,1,2,1,5,3,4,2,2,4,2.0,3,3,4,1800000,128.57,4,4,4,3,3,3,4,4,3,3,4,Biasa,Laki-laki,Menikah,Lainnya,3
+83,1,23,2,3,1,5,3,4,2,2,4,2.0,3,4,4,1600000,114.29,3,4,4,3,3,4,5,4,3,4,3,Biasa,Laki-laki,Single,Lainnya,3
+84,1,28,1,3,1,2,3,3,1,2,3,3.0,3,3,4,3000000,214.29,3,4,4,3,3,4,3,3,4,3,4,Biasa,Laki-laki,Menikah,Polisi/Militer,2
+85,1,29,2,3,1,3,4,3,2,3,5,2.5,3,4,3,1800000,128.57,4,4,3,3,3,3,3,4,3,3,3,Biasa,Laki-laki,Single,Pegawai swasta,3
+86,1,29,2,3,1,5,3,3,2,2,4,2.0,3,4,4,1500000,107.14,4,4,3,3,4,4,3,3,4,3,3,Biasa,Laki-laki,Single,Lainnya,2
+87,1,31,1,3,1,5,3,3,2,1,3,1.5,4,4,3,1400000,100.0,3,3,4,3,3,4,4,4,3,3,4,Biasa,Laki-laki,Menikah,Lainnya,3
+88,2,25,2,3,1,5,3,4,2,2,4,2.0,4,4,5,1600000,114.29,4,4,3,3,4,4,4,3,3,4,3,Biasa,Perempuan,Single,Lainnya,3
+89,1,29,2,3,1,5,3,4,3,2,5,1.67,3,3,4,2000000,142.86,3,3,4,3,3,4,4,3,3,4,4,Biasa,Laki-laki,Single,Lainnya,3
+90,1,30,2,3,1,5,3,3,3,2,5,1.67,3,3,4,2500000,178.57,4,4,3,3,3,4,4,3,3,3,3,Biasa,Laki-laki,Single,Lainnya,3
+91,1,40,1,2,1,5,3,3,2,2,4,2.0,4,4,3,2000000,142.86,4,4,3,3,3,4,4,3,3,3,4,Biasa,Laki-laki,Menikah,Lainnya,3
+92,1,35,1,3,1,1,3,3,2,2,4,2.0,3,4,4,2500000,178.57,3,3,4,3,3,3,4,4,3,4,4,Biasa,Laki-laki,Menikah,PNS,3
+93,1,36,1,3,1,3,4,4,3,2,5,1.67,4,4,4,1800000,128.57,4,4,4,4,3,2,3,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+94,2,34,1,5,1,1,4,4,2,2,4,2.0,4,4,4,2500000,178.57,4,3,4,4,2,3,3,2,3,4,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+95,1,35,1,3,1,3,4,4,2,1,3,1.5,4,4,3,1500000,107.14,4,3,4,5,2,3,4,3,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+96,1,38,1,5,1,2,4,4,1,4,5,5.0,4,4,4,3000000,214.29,4,4,5,5,2,3,3,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,3
+97,1,35,1,5,1,1,4,4,2,2,4,2.0,4,4,4,2500000,178.57,4,3,4,4,2,3,3,2,3,2,2,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+98,1,38,1,3,1,4,4,4,1,3,4,4.0,4,4,4,1700000,121.43,4,4,3,4,4,3,4,3,4,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+99,1,39,1,2,1,4,4,4,1,3,4,4.0,4,4,4,1800000,128.57,4,4,4,4,4,3,4,3,4,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+100,1,40,1,2,1,3,4,4,1,2,3,3.0,4,4,3,2500000,178.57,4,3,4,4,3,3,4,3,2,2,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,4
+101,1,36,1,3,1,3,5,5,1,4,5,5.0,5,4,4,2500000,178.57,4,4,4,4,4,4,3,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+102,1,38,1,3,1,5,4,4,3,3,6,2.0,4,4,4,2000000,142.86,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+103,1,38,2,3,1,3,4,4,1,1,2,2.0,4,4,4,3000000,214.29,4,4,4,4,4,3,3,3,4,4,4,Sangat Tidak Puas,Laki-laki,Single,Pegawai swasta,2
+104,1,46,1,3,1,3,4,4,4,0,4,1.0,4,4,4,2000000,142.86,4,4,4,2,3,2,2,2,2,2,2,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,4
+105,1,30,1,3,1,3,4,4,1,1,2,2.0,4,4,4,2000000,142.86,4,4,4,4,4,3,4,4,4,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+106,1,37,1,3,1,3,3,3,1,4,5,5.0,4,3,2,1600000,114.29,4,3,4,4,3,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+107,1,46,1,3,1,4,4,4,3,2,5,1.67,4,4,4,3000000,214.29,4,4,4,2,2,2,2,2,2,4,4,Sangat Puas,Laki-laki,Menikah,Wiraswasta,4
+108,1,56,1,3,1,1,4,4,3,3,6,2.0,4,4,4,3300000,235.71,4,4,4,2,2,2,2,2,2,2,2,Sangat Puas,Laki-laki,Menikah,PNS,4
+109,2,30,1,5,1,5,4,5,2,3,5,2.5,2,3,2,2000000,142.86,4,4,4,3,2,2,3,3,2,2,2,Biasa,Perempuan,Menikah,Lainnya,4
+110,1,50,1,3,1,1,4,4,1,1,2,2.0,4,4,4,2800000,200.0,3,2,1,3,2,1,1,1,2,1,1,Biasa,Laki-laki,Menikah,PNS,4
+111,2,48,1,5,1,1,4,5,3,3,6,2.0,3,3,3,3300000,235.71,4,3,4,5,2,3,3,4,2,4,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,4
+112,1,30,1,3,1,3,4,3,1,2,3,3.0,4,3,3,1600000,114.29,5,3,3,5,4,4,4,4,3,4,3,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+113,1,35,1,5,1,3,4,4,1,4,5,5.0,4,4,4,2000000,142.86,4,3,5,4,3,2,4,3,2,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,4
+114,1,25,1,3,1,3,4,4,1,1,2,2.0,3,3,3,1300000,92.86,3,4,3,3,3,3,4,4,3,4,2,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+115,1,25,1,3,1,3,3,5,2,0,2,1.0,3,3,3,1550000,110.71,4,4,3,1,1,1,1,1,1,1,1,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,5
+116,1,56,1,3,1,4,5,5,1,1,2,2.0,4,4,3,800000,57.14,4,4,4,3,4,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+117,1,53,1,1,1,4,4,4,1,1,2,2.0,4,4,4,850000,60.71,4,4,4,2,2,2,2,2,4,2,2,Sangat Puas,Laki-laki,Menikah,Wiraswasta,2
+118,2,23,2,4,1,3,2,3,2,1,3,1.5,4,4,3,1500000,107.14,4,3,4,4,3,2,2,2,2,3,3,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,4
+119,1,21,2,3,1,3,3,3,3,3,6,2.0,3,3,3,720000,51.43,3,3,3,3,3,2,3,2,2,3,3,Biasa,Laki-laki,Single,Pegawai swasta,4
+120,1,35,1,5,1,5,4,4,1,3,4,4.0,3,3,3,5000000,357.14,4,3,3,4,3,3,2,2,3,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+121,1,30,1,5,1,3,4,4,1,2,3,3.0,4,4,4,2500000,178.57,4,4,3,4,3,2,2,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+122,1,37,1,2,1,4,4,3,1,2,3,3.0,4,4,3,1500000,107.14,4,3,3,4,2,3,3,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+123,1,38,1,2,1,4,4,4,2,2,4,2.0,4,4,3,1800000,128.57,4,4,3,4,3,3,3,3,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+124,1,40,1,5,1,1,4,4,2,1,3,1.5,4,4,4,2500000,178.57,4,3,3,4,3,3,2,2,3,2,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+125,1,38,1,3,1,5,4,4,2,3,5,2.5,4,3,4,1400000,100.0,4,4,3,4,3,3,2,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+126,1,37,1,2,1,4,4,4,1,3,4,4.0,4,3,4,1700000,121.43,4,4,4,4,4,3,3,3,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+127,1,38,1,2,1,4,4,3,1,3,4,4.0,4,4,3,1400000,100.0,4,4,3,4,4,2,3,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+128,1,38,1,1,1,4,4,4,3,5,8,2.67,4,4,4,8000000,571.43,4,4,3,4,2,2,2,2,3,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+129,1,35,1,4,1,4,4,4,2,2,4,2.0,4,4,3,2500000,178.57,4,4,4,2,2,2,2,2,2,4,4,Sangat Puas,Laki-laki,Menikah,Wiraswasta,4
+130,1,29,1,2,1,4,5,4,1,3,4,4.0,5,5,5,1700000,121.43,3,3,3,5,2,2,4,1,1,1,1,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,5
+131,1,27,1,3,1,5,4,4,2,0,2,1.0,3,3,3,4000000,285.71,3,3,3,3,2,2,3,2,3,3,3,Biasa,Laki-laki,Menikah,Lainnya,3
+132,1,28,1,3,1,3,3,3,5,1,6,1.2,3,3,3,1400000,100.0,3,3,3,3,3,3,3,3,3,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+133,1,37,1,3,1,4,4,3,2,3,5,2.5,4,4,2,2000000,142.86,4,4,4,4,4,4,2,2,4,2,3,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+134,1,42,1,1,1,3,4,3,1,4,5,5.0,2,2,3,1500000,107.14,3,3,4,3,4,5,3,3,3,3,2,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+135,1,34,1,3,1,4,4,4,1,3,4,4.0,3,3,3,1800000,128.57,4,4,4,5,4,2,2,2,2,4,2,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,4
+136,2,18,2,3,1,3,4,4,1,0,1,1.0,4,4,2,1000000,71.43,4,4,4,4,5,2,4,4,4,5,3,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+137,2,30,1,5,1,4,4,4,2,2,4,2.0,3,3,3,2500000,178.57,4,4,4,3,3,3,3,3,4,4,4,Biasa,Perempuan,Menikah,Wiraswasta,2
+138,1,24,2,3,1,3,5,5,2,2,4,2.0,4,4,4,2000000,142.86,4,4,4,2,2,2,2,2,2,4,4,Sangat Puas,Laki-laki,Single,Pegawai swasta,4
+139,1,27,1,3,1,4,4,4,1,1,2,2.0,2,3,2,2500000,178.57,3,3,3,2,2,2,2,2,4,4,4,Sangat Puas,Laki-laki,Menikah,Wiraswasta,2
+140,2,40,4,2,1,5,3,3,1,1,2,2.0,4,4,4,1200000,85.71,4,4,4,5,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Janda,Lainnya,3
+141,1,25,2,3,1,5,4,4,2,2,4,2.0,4,4,4,2100000,150.0,4,3,4,4,4,4,4,3,3,4,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,3
+142,1,50,3,2,1,5,4,3,2,1,3,1.5,4,4,4,1900000,135.71,4,4,4,4,3,3,3,3,3,3,4,Sangat Tidak Puas,Laki-laki,Duda,Lainnya,3
+143,2,40,4,2,1,5,4,4,1,2,3,3.0,4,4,4,950000,67.86,4,4,4,4,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Janda,Lainnya,3
+144,1,30,1,3,1,5,4,4,1,1,2,2.0,4,4,4,1700000,121.43,4,4,4,4,3,2,4,4,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+145,1,37,1,3,2,5,4,4,1,2,3,3.0,4,3,3,1600000,114.29,5,5,5,4,4,3,3,4,4,2,2,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+146,1,39,1,3,1,5,2,4,1,3,4,4.0,4,4,2,1200000,85.71,4,3,4,2,5,3,5,3,3,2,3,Sangat Puas,Laki-laki,Menikah,Lainnya,3
+147,1,48,1,3,1,5,4,4,2,2,4,2.0,4,3,4,1100000,78.57,4,4,4,4,4,4,4,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+148,1,22,2,3,1,5,4,4,1,2,3,3.0,3,3,3,1450000,103.57,4,4,3,4,3,3,3,4,4,4,3,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+149,1,23,2,3,1,5,4,4,1,0,1,1.0,4,4,4,1200000,85.71,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+150,1,48,1,3,3,3,4,4,1,2,3,3.0,4,4,4,2100000,150.0,4,4,4,4,4,3,3,3,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+151,1,28,2,3,1,5,4,4,1,1,2,2.0,4,4,4,1400000,100.0,4,3,4,4,3,3,3,3,4,4,3,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+152,2,40,4,1,1,5,4,4,1,0,1,1.0,4,4,4,800000,57.14,4,4,4,4,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Janda,Lainnya,3
+153,2,24,2,5,1,1,4,4,2,1,3,1.5,4,4,4,4300000,307.14,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Perempuan,Single,PNS,2
+154,2,21,2,3,1,5,4,4,2,2,4,2.0,4,4,4,1100000,78.57,4,4,4,4,4,4,3,3,3,4,4,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+155,1,27,2,3,1,5,4,4,2,1,3,1.5,4,4,4,1050000,75.0,4,4,4,4,3,3,3,4,3,3,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,3
+156,2,22,2,3,1,5,5,5,2,2,4,2.0,4,4,4,1100000,78.57,4,4,4,4,3,3,3,3,3,4,4,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+157,1,19,2,3,1,5,4,4,2,4,6,3.0,4,4,4,1100000,78.57,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+158,2,22,2,3,1,5,4,4,2,2,4,2.0,4,4,4,1200000,85.71,4,4,4,4,4,4,4,4,3,3,3,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+159,1,42,1,3,1,3,4,4,1,4,5,5.0,4,4,4,1800000,128.57,4,4,4,4,4,4,3,4,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+160,1,50,1,3,1,5,4,4,3,1,4,1.33,3,3,3,1400000,100.0,4,4,4,4,4,3,3,3,4,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+161,2,27,2,5,1,3,4,4,2,2,4,2.0,4,4,4,2600000,185.71,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+162,2,23,2,5,1,5,4,4,2,1,3,1.5,4,4,4,200000,14.29,4,3,3,3,4,4,4,3,3,3,3,Biasa,Perempuan,Single,Lainnya,3
+163,1,24,2,3,2,5,4,4,3,2,5,1.67,4,4,4,1500000,107.14,4,4,4,3,4,4,4,3,3,3,3,Biasa,Laki-laki,Single,Lainnya,3
+164,1,24,2,4,1,3,4,4,2,3,5,2.5,4,4,3,1300000,92.86,4,1,3,2,4,3,3,3,3,3,3,Sangat Puas,Laki-laki,Single,Pegawai swasta,3
+165,1,37,1,3,1,5,4,4,1,4,5,5.0,4,4,4,1500000,107.14,4,4,4,1,2,2,2,2,2,1,1,Sangat Puas,Laki-laki,Menikah,Lainnya,4
+166,2,40,4,1,1,5,3,4,1,1,2,2.0,4,4,4,800000,57.14,3,3,4,2,4,2,3,3,4,4,3,Sangat Puas,Perempuan,Janda,Lainnya,2
+167,1,36,1,5,1,3,4,4,1,1,2,2.0,4,4,4,2800000,200.0,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+168,2,25,2,3,1,5,4,4,3,1,4,1.33,4,4,4,1300000,92.86,3,3,3,4,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+169,2,23,2,5,1,3,4,4,1,2,3,3.0,4,4,4,1400000,100.0,4,3,3,3,4,4,4,4,4,4,4,Biasa,Perempuan,Single,Pegawai swasta,2
+170,1,22,2,2,1,5,4,4,2,1,3,1.5,4,4,3,1000000,71.43,3,3,3,3,3,3,3,3,3,3,3,Biasa,Laki-laki,Single,Lainnya,3
+171,1,38,1,3,2,3,4,4,1,1,2,2.0,5,5,4,2500000,178.57,4,3,3,4,3,3,3,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+172,1,29,1,4,1,3,4,3,2,1,3,1.5,4,5,4,2000000,142.86,4,4,3,4,4,5,4,4,3,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+173,1,35,1,3,1,1,4,4,1,4,5,5.0,4,4,3,2000000,142.86,4,4,3,4,3,4,5,5,3,3,2,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+174,1,38,1,3,1,4,4,4,1,4,5,5.0,4,4,3,2000000,142.86,4,4,3,4,1,1,2,2,2,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,4
+175,1,45,1,3,1,1,4,3,2,3,5,2.5,4,4,4,2500000,178.57,4,4,3,2,2,2,2,2,4,4,4,Sangat Puas,Laki-laki,Menikah,PNS,2
+176,1,27,1,3,1,4,4,4,1,1,2,2.0,4,4,4,3000000,214.29,4,4,4,3,2,2,2,2,2,4,4,Biasa,Laki-laki,Menikah,Wiraswasta,4
+177,2,26,2,5,1,3,4,3,1,0,1,1.0,4,4,5,2500000,178.57,4,5,4,4,4,5,3,2,4,3,4,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+178,2,28,1,5,1,1,4,3,2,1,3,1.5,4,4,5,1500000,107.14,4,4,3,4,3,4,3,4,3,4,3,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+179,2,41,4,2,2,5,4,4,1,1,2,2.0,4,4,4,1000000,71.43,4,3,3,4,4,3,3,3,3,4,3,Sangat Tidak Puas,Perempuan,Janda,Lainnya,3
+180,1,36,1,3,1,5,4,4,1,3,4,4.0,4,3,3,1200000,85.71,4,4,4,4,4,3,3,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+181,1,45,1,5,1,1,4,4,2,2,4,2.0,4,4,4,2000000,142.86,4,5,4,3,2,2,3,4,3,3,3,Biasa,Laki-laki,Menikah,PNS,3
+182,1,38,1,3,1,3,4,4,2,0,2,1.0,4,4,4,1500000,107.14,4,4,4,3,4,3,4,3,3,3,4,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+183,1,27,1,3,1,3,4,5,1,2,3,3.0,5,4,4,2800000,200.0,5,4,5,5,4,4,5,4,5,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,1
+184,2,23,1,3,1,3,4,4,2,0,2,1.0,4,4,4,2500000,178.57,4,4,4,4,3,3,2,3,3,2,3,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,3
+185,1,32,1,3,1,3,5,4,1,1,2,2.0,4,4,4,3000000,214.29,4,4,5,4,4,4,5,5,4,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+186,1,33,1,3,1,4,3,4,1,2,3,3.0,3,3,3,3000000,214.29,4,4,3,3,3,3,3,3,4,4,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+187,1,47,1,5,1,4,4,5,2,3,5,2.5,3,3,4,3500000,250.0,4,4,3,4,2,2,3,2,2,4,3,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,4
+188,2,45,1,6,1,1,4,5,2,3,5,2.5,3,3,4,3500000,250.0,4,4,3,4,4,4,3,3,3,3,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+189,1,50,1,3,1,3,4,5,4,1,5,1.25,3,4,4,4000000,285.71,4,4,4,3,2,2,2,2,2,3,4,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+190,2,40,1,4,1,1,4,4,2,2,4,2.0,4,5,4,3000000,214.29,4,5,4,4,2,2,2,3,2,3,3,Sangat Tidak Puas,Perempuan,Menikah,PNS,4
+191,2,31,1,3,1,5,4,2,2,1,3,1.5,3,2,3,1500000,107.14,4,2,3,5,4,3,2,3,2,4,3,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,4
+192,1,29,1,3,1,5,5,4,2,1,3,1.5,3,4,4,2200000,157.14,5,4,3,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+193,2,25,1,3,1,5,4,5,2,2,4,2.0,4,5,4,1500000,107.14,5,4,5,4,4,5,4,4,5,4,4,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,1
+194,2,28,1,3,1,4,4,5,2,2,4,2.0,4,5,4,1000000,71.43,4,3,4,4,4,5,5,4,5,4,5,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,1
+195,2,42,1,4,1,3,4,5,2,2,4,2.0,4,4,5,2000000,142.86,4,4,5,4,4,5,4,5,4,5,4,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+196,2,19,2,3,1,3,4,4,1,0,1,1.0,4,4,5,2300000,164.29,4,3,2,4,3,3,2,3,4,4,5,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+197,2,34,1,5,1,1,4,4,2,2,4,2.0,4,4,5,2500000,178.57,5,4,4,4,4,5,4,5,4,5,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,2
+198,1,25,1,3,1,2,4,5,2,0,2,1.0,4,4,5,2800000,200.0,4,4,5,4,4,4,5,4,4,5,5,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,2
+199,1,28,1,2,1,5,4,4,1,2,3,3.0,3,3,3,1700000,121.43,3,3,3,3,3,3,3,3,3,3,3,Biasa,Laki-laki,Menikah,Lainnya,3
+200,1,30,1,2,1,4,3,4,1,2,3,3.0,3,3,4,2500000,178.57,3,3,3,3,3,3,3,3,3,3,2,Biasa,Laki-laki,Menikah,Wiraswasta,3
+201,1,40,1,2,1,4,3,4,1,2,3,3.0,3,2,3,3000000,214.29,3,3,3,3,3,3,3,4,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+202,1,33,1,3,1,3,3,3,2,1,3,1.5,3,3,3,2000000,142.86,3,4,3,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+203,1,39,1,3,1,2,4,4,2,1,3,1.5,4,4,4,5000000,357.14,4,4,4,4,3,3,3,3,3,2,2,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,3
+204,2,44,1,3,1,3,5,4,2,3,5,2.5,5,4,4,4000000,285.71,4,4,3,5,4,5,4,4,4,5,4,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+205,1,42,1,2,1,3,3,3,1,3,4,4.0,3,3,4,3000000,214.29,3,3,3,3,3,3,3,3,4,4,4,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+206,1,29,1,3,1,3,4,5,1,2,3,3.0,4,4,5,2500000,178.57,4,4,5,4,4,5,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+207,1,38,1,5,1,1,4,5,1,3,4,4.0,4,3,4,3000000,214.29,4,4,3,4,2,2,2,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+208,1,35,1,3,1,5,4,3,2,1,3,1.5,4,3,2,1500000,107.14,4,3,4,4,3,3,4,2,3,4,2,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+209,1,38,1,5,1,3,4,4,2,0,2,1.0,4,4,4,1500000,107.14,4,4,4,2,3,3,3,3,3,3,3,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,3
+210,1,49,1,5,1,3,4,4,1,3,4,4.0,4,4,4,3000000,214.29,4,4,4,3,3,2,3,2,3,2,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+211,1,30,1,3,1,5,4,4,2,1,3,1.5,4,4,4,1000000,71.43,4,4,4,3,3,2,3,3,2,2,3,Biasa,Laki-laki,Menikah,Lainnya,4
+212,1,43,1,5,1,1,4,4,2,1,3,1.5,4,5,4,1500000,107.14,4,4,4,3,3,2,2,3,3,2,2,Biasa,Laki-laki,Menikah,PNS,3
+213,1,45,1,5,1,3,5,4,1,4,5,5.0,5,5,2,3500000,250.0,5,5,3,5,2,1,1,1,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+214,1,48,1,3,1,4,3,3,2,3,5,2.5,4,3,3,10000000,714.29,5,4,3,3,3,3,3,4,3,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,3
+215,1,50,1,3,1,1,5,5,2,3,5,2.5,5,5,5,1500000,107.14,3,5,3,4,4,3,3,3,2,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,4
+216,2,52,1,5,1,1,5,5,2,3,5,2.5,5,4,5,3000000,214.29,5,4,4,2,3,2,3,3,3,2,3,Sangat Puas,Perempuan,Menikah,PNS,3
+217,1,30,2,3,1,3,5,4,3,0,3,1.0,4,4,4,2000000,142.86,4,5,4,2,3,3,3,3,3,3,2,Sangat Puas,Laki-laki,Single,Pegawai swasta,3
+218,1,40,1,2,5,3,3,4,2,1,3,1.5,3,3,4,3000000,214.29,4,4,4,3,3,3,3,4,4,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+219,1,43,1,5,1,4,4,3,1,5,6,6.0,4,3,5,4000000,285.71,4,4,5,4,4,2,3,4,2,2,3,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,4
+220,1,35,1,3,1,4,3,4,1,3,4,4.0,3,3,4,3000000,214.29,4,4,3,3,3,3,3,4,3,4,4,Biasa,Laki-laki,Menikah,Wiraswasta,3
+221,1,50,1,3,1,4,4,5,1,2,3,3.0,4,5,4,2600000,185.71,4,4,4,3,2,3,3,3,2,3,2,Biasa,Laki-laki,Menikah,Wiraswasta,4
+222,1,49,1,2,1,1,5,4,2,3,5,2.5,5,3,3,2500000,178.57,3,4,3,4,3,4,3,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+223,1,45,1,3,1,4,4,5,1,2,3,3.0,4,5,4,3600000,257.14,4,4,5,3,3,3,3,2,3,2,3,Biasa,Laki-laki,Menikah,Wiraswasta,3
+224,1,50,1,3,1,2,5,5,3,1,4,1.33,4,4,4,2000000,142.86,4,4,5,4,2,2,2,3,3,2,3,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,3
+225,2,49,1,5,1,5,5,5,3,1,4,1.33,4,5,4,2000000,142.86,4,5,4,4,2,2,2,3,3,2,3,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,3
+226,1,35,1,5,1,3,4,5,2,3,5,2.5,4,4,4,2000000,142.86,5,4,5,3,2,3,2,3,2,3,2,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+227,1,45,1,3,1,4,4,5,1,3,4,4.0,5,4,5,3600000,257.14,4,5,4,3,4,3,4,2,3,4,3,Biasa,Laki-laki,Menikah,Wiraswasta,3
+228,1,40,1,2,1,5,4,4,2,2,4,2.0,4,4,4,1600000,114.29,4,4,4,3,2,3,2,3,2,3,2,Biasa,Laki-laki,Menikah,Lainnya,4
+229,1,53,1,3,1,1,5,5,2,4,6,3.0,4,4,4,3500000,250.0,5,5,5,5,2,2,3,2,2,2,2,Sangat Tidak Puas,Laki-laki,Menikah,PNS,4
+230,2,27,2,5,1,3,4,4,2,1,3,1.5,4,4,3,1000000,71.43,4,4,4,4,5,3,4,5,4,3,4,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+231,1,52,1,3,1,1,5,5,2,3,5,2.5,5,4,5,3000000,214.29,5,4,4,4,3,2,3,3,3,2,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+232,2,49,1,3,1,1,4,4,2,4,6,3.0,2,4,2,2600000,185.71,4,5,4,4,4,4,4,4,4,3,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,2
+233,1,51,1,3,1,1,4,4,2,4,6,3.0,2,4,3,2600000,185.71,2,3,4,4,4,4,4,4,4,3,4,Sangat Tidak Puas,Laki-laki,Menikah,PNS,2
+234,2,43,1,3,1,4,5,5,2,4,6,3.0,4,4,4,2500000,178.57,5,4,4,4,2,2,2,2,3,3,2,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,3
+235,1,48,1,1,1,1,5,5,2,4,6,3.0,4,4,4,2500000,178.57,5,4,4,4,2,2,2,2,3,3,2,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+236,2,38,4,3,1,4,5,3,1,1,2,2.0,3,3,4,1000000,71.43,3,4,3,3,3,4,3,3,3,3,4,Biasa,Perempuan,Janda,Wiraswasta,3
+237,2,54,1,4,1,1,4,4,2,3,5,2.5,2,2,4,2000000,142.86,4,4,4,2,2,2,2,2,2,2,2,Sangat Puas,Perempuan,Menikah,PNS,4
+238,2,56,1,5,1,4,4,3,2,4,6,3.0,5,3,4,1500000,107.14,3,3,3,5,3,4,3,5,3,5,3,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,3
+239,1,45,1,3,1,5,4,4,1,4,5,5.0,4,4,4,2000000,142.86,4,4,5,3,4,3,2,3,3,3,3,Biasa,Laki-laki,Menikah,Lainnya,3
+240,1,54,1,5,1,1,5,5,3,3,6,2.0,4,5,4,4000000,285.71,5,4,5,3,2,3,3,2,3,2,3,Biasa,Laki-laki,Menikah,PNS,3
+241,2,48,1,5,1,1,5,5,3,3,6,2.0,4,5,4,4000000,285.71,5,4,5,3,2,3,2,3,2,3,2,Biasa,Perempuan,Menikah,PNS,4
+242,2,28,1,5,5,3,3,3,2,3,5,2.5,3,3,3,2000000,142.86,4,3,3,3,4,3,3,3,3,2,3,Biasa,Perempuan,Menikah,Pegawai swasta,3
+243,1,50,1,1,1,4,4,3,1,3,4,4.0,3,3,4,5000000,357.14,4,4,4,3,3,3,3,4,4,4,4,Biasa,Laki-laki,Menikah,Wiraswasta,2
+244,1,40,1,3,1,5,3,3,2,2,4,2.0,3,3,3,1500000,107.14,3,3,3,4,3,4,4,3,3,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+245,1,28,1,3,1,3,2,4,1,2,3,3.0,3,3,3,2000000,142.86,3,1,3,3,3,4,3,3,3,4,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+246,1,40,1,3,1,4,4,4,2,2,4,2.0,4,4,4,2000000,142.86,4,5,4,3,2,3,2,3,3,2,3,Biasa,Laki-laki,Menikah,Wiraswasta,3
+247,1,30,2,3,1,1,4,4,1,2,3,3.0,4,4,4,2000000,142.86,4,4,4,3,3,3,3,3,3,3,3,Biasa,Laki-laki,Single,PNS,3
+248,1,45,1,5,1,3,5,5,2,2,4,2.0,4,5,5,2000000,142.86,5,4,5,3,2,3,3,3,2,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+249,2,35,2,5,1,1,4,3,1,2,3,3.0,4,4,4,2000000,142.86,4,4,4,3,3,3,2,3,3,2,3,Biasa,Perempuan,Single,PNS,3
+250,1,30,1,5,1,3,4,4,2,0,2,1.0,4,4,4,1500000,107.14,4,5,4,2,3,2,3,3,3,3,3,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,3
+251,1,50,1,5,1,1,5,5,2,4,6,3.0,3,3,4,3000000,214.29,5,3,3,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,PNS,2
+252,2,46,1,5,1,1,4,4,2,4,6,3.0,3,3,4,3000000,214.29,5,3,3,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,2
+253,1,26,5,1,1,5,5,4,2,0,2,1.0,4,5,4,1000000,71.43,4,4,4,4,2,3,2,3,2,3,2,Sangat Tidak Puas,Laki-laki,Kode lain/perlu cek,Lainnya,4
+254,2,27,1,4,1,5,5,5,2,0,2,1.0,4,5,4,1000000,71.43,4,4,4,4,2,3,2,3,2,3,2,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,4
+255,1,54,1,5,1,1,5,5,1,2,3,3.0,5,4,5,5000000,357.14,5,4,5,2,3,2,3,2,3,3,3,Sangat Puas,Laki-laki,Menikah,PNS,3
+256,2,38,1,3,1,5,4,5,2,2,4,2.0,3,3,4,1000000,71.43,4,3,3,2,3,3,3,3,3,3,3,Sangat Puas,Perempuan,Menikah,Lainnya,3
+257,1,40,1,3,1,5,4,5,1,3,4,4.0,3,3,4,1000000,71.43,4,3,3,2,2,3,2,3,3,2,3,Sangat Puas,Laki-laki,Menikah,Lainnya,3
+258,1,48,1,5,1,1,5,4,1,3,4,4.0,4,5,4,2000000,142.86,4,5,4,2,3,2,3,3,3,3,3,Sangat Puas,Laki-laki,Menikah,PNS,3
+259,1,35,1,3,1,1,4,5,1,2,3,3.0,4,4,4,3000000,214.29,4,5,4,3,3,3,2,3,2,3,2,Biasa,Laki-laki,Menikah,PNS,4
+260,2,29,1,3,1,4,5,4,2,1,3,1.5,4,4,4,2000000,142.86,4,5,4,4,4,4,3,4,5,4,4,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,1
+261,1,42,1,5,1,1,4,4,2,3,5,2.5,4,4,4,4000000,285.71,4,4,4,4,3,3,3,3,3,4,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+262,1,30,1,3,1,4,5,4,2,1,3,1.5,4,4,5,400000,28.57,4,5,4,2,3,3,2,5,2,3,2,Sangat Puas,Laki-laki,Menikah,Wiraswasta,4
+263,1,47,1,3,1,5,4,5,2,3,5,2.5,5,4,5,2000000,142.86,4,4,5,3,2,3,2,3,2,3,3,Biasa,Laki-laki,Menikah,Lainnya,4
+264,1,45,1,3,1,1,5,4,2,3,5,2.5,5,5,5,1500000,107.14,4,5,5,4,4,4,4,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+265,1,35,1,3,1,2,4,4,2,0,2,1.0,4,4,4,2500000,178.57,4,4,4,2,2,2,3,2,3,2,3,Sangat Puas,Laki-laki,Menikah,Polisi/Militer,3
+266,1,38,1,2,1,5,3,3,1,2,3,3.0,3,4,3,500000,35.71,3,3,4,3,3,3,3,2,3,3,3,Biasa,Laki-laki,Menikah,Lainnya,3
+267,1,40,1,3,1,3,4,4,2,2,4,2.0,4,4,4,1500000,107.14,4,4,4,2,3,3,2,3,2,3,2,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,4
+268,1,40,1,3,1,2,4,5,1,3,4,4.0,4,5,4,3000000,214.29,4,5,4,3,2,3,2,2,3,3,3,Biasa,Laki-laki,Menikah,Polisi/Militer,3
+269,1,40,1,3,1,3,4,4,1,3,4,4.0,4,5,4,3000000,214.29,4,4,4,3,3,2,3,3,2,3,2,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+270,1,30,1,3,1,5,4,4,2,1,3,1.5,4,4,4,1500000,107.14,4,4,4,2,3,2,3,2,3,2,3,Sangat Puas,Laki-laki,Menikah,Lainnya,3
+271,1,22,2,3,1,2,4,4,1,0,1,1.0,4,4,4,2800000,200.0,4,4,4,4,4,3,4,3,3,2,3,Sangat Tidak Puas,Laki-laki,Single,Polisi/Militer,3
+272,1,36,1,5,1,4,5,5,2,3,5,2.5,4,3,4,7000000,500.0,4,4,3,3,3,2,2,2,4,3,4,Biasa,Laki-laki,Menikah,Wiraswasta,2
+273,1,38,1,5,1,4,4,4,1,3,4,4.0,4,4,4,3500000,250.0,4,4,4,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+274,2,27,1,3,1,5,4,5,2,2,4,2.0,5,5,4,2500000,178.57,4,4,4,4,5,4,4,5,4,4,4,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,2
+275,1,28,1,3,1,4,4,4,1,2,3,3.0,3,3,3,3000000,214.29,3,3,3,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+276,1,45,1,3,1,3,3,3,1,4,5,5.0,3,3,4,3000000,214.29,3,3,3,3,3,3,3,3,3,4,4,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+277,1,27,1,3,1,5,5,4,1,2,3,3.0,5,4,3,2300000,164.29,5,4,5,4,4,5,5,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+278,2,40,1,3,2,4,2,3,2,3,5,2.5,3,3,4,4000000,285.71,3,4,4,4,3,1,3,1,3,3,3,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,3
+279,2,29,1,4,1,3,5,4,2,2,4,2.0,5,4,4,2200000,157.14,5,4,5,4,5,4,5,4,4,4,4,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+280,1,27,1,5,1,3,4,5,1,1,2,2.0,4,3,4,2000000,142.86,4,4,3,4,4,4,4,5,4,5,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+281,2,31,2,5,2,3,5,4,1,0,1,1.0,4,4,5,5000000,357.14,4,4,5,4,4,3,4,3,5,3,4,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,1
+282,1,50,1,4,1,1,4,3,1,4,5,5.0,4,4,4,4000000,285.71,3,3,3,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,PNS,2
+283,2,28,1,4,1,3,4,5,2,1,3,1.5,4,4,2,2000000,142.86,4,3,4,4,3,4,4,4,4,4,3,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+284,1,45,1,2,1,5,4,4,3,3,6,2.0,3,4,4,1600000,114.29,4,4,5,3,3,4,4,3,4,5,4,Biasa,Laki-laki,Menikah,Lainnya,2
+285,1,23,2,3,1,5,4,4,2,3,5,2.5,3,4,4,1500000,107.14,4,4,4,3,4,4,3,3,4,4,3,Biasa,Laki-laki,Single,Lainnya,2
+286,1,24,2,3,1,5,3,3,2,2,4,2.0,3,4,4,1500000,107.14,4,4,5,3,3,4,4,3,3,3,4,Biasa,Laki-laki,Single,Lainnya,3
+287,1,30,2,3,1,5,4,4,2,2,4,2.0,3,3,4,1500000,107.14,4,4,3,3,3,4,4,5,4,3,3,Biasa,Laki-laki,Single,Lainnya,2
+288,1,23,2,3,1,5,3,4,2,3,5,2.5,3,4,4,1200000,85.71,4,4,4,3,4,3,3,4,4,3,4,Biasa,Laki-laki,Single,Lainnya,2
+289,1,25,1,3,1,3,3,4,2,2,4,2.0,3,3,4,1800000,128.57,4,4,4,3,3,4,4,3,4,4,4,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+290,1,40,1,2,1,5,3,4,2,2,4,2.0,3,3,4,1800000,128.57,4,4,4,3,3,3,4,4,3,3,4,Biasa,Laki-laki,Menikah,Lainnya,3
+291,1,28,1,3,1,2,3,3,1,2,3,3.0,3,3,4,3000000,214.29,3,4,4,3,3,4,3,3,4,3,4,Biasa,Laki-laki,Menikah,Polisi/Militer,2
+292,1,29,2,3,1,5,3,3,2,2,4,2.0,3,4,4,1500000,107.14,4,4,3,3,4,4,3,3,4,3,3,Biasa,Laki-laki,Single,Lainnya,2
+293,2,25,2,3,1,5,3,4,2,2,4,2.0,4,4,5,1600000,114.29,4,4,3,3,4,4,4,3,3,4,3,Biasa,Perempuan,Single,Lainnya,3
+294,1,30,2,3,1,5,3,3,3,2,5,1.67,3,3,4,2500000,178.57,4,4,3,3,3,4,4,3,3,3,3,Biasa,Laki-laki,Single,Lainnya,3
+295,1,35,1,3,1,1,3,3,2,2,4,2.0,3,4,4,2500000,178.57,3,3,4,3,3,3,4,4,3,4,4,Biasa,Laki-laki,Menikah,PNS,3
+296,2,34,1,5,1,1,4,4,2,2,4,2.0,4,4,4,2500000,178.57,4,3,4,4,2,3,3,2,3,4,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+297,1,38,1,5,1,2,4,4,1,4,5,5.0,4,4,4,3000000,214.29,4,4,5,5,2,3,3,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,3
+298,1,38,1,3,1,4,4,4,1,3,4,4.0,4,4,4,1700000,121.43,4,4,3,4,4,3,4,3,4,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+299,1,40,1,2,1,3,4,4,1,2,3,3.0,4,4,3,2500000,178.57,4,3,4,4,3,3,4,3,2,2,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,4
+300,1,38,1,3,1,5,4,4,3,3,6,2.0,4,4,4,2000000,142.86,4,4,4,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+301,1,46,1,3,1,3,4,4,4,0,4,1.0,4,4,4,2000000,142.86,4,4,4,2,3,2,2,2,2,2,2,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,4
+302,1,37,1,3,1,3,3,3,1,4,5,5.0,4,3,2,1600000,114.29,4,3,4,4,3,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+303,1,56,1,3,1,1,4,4,3,3,6,2.0,4,4,4,3300000,235.71,4,4,4,2,2,2,2,2,2,2,2,Sangat Puas,Laki-laki,Menikah,PNS,4
+304,1,50,1,3,1,1,4,4,1,1,2,2.0,4,4,4,2800000,200.0,3,2,1,3,2,1,1,1,2,1,1,Biasa,Laki-laki,Menikah,PNS,4
+305,1,30,1,3,1,3,4,3,1,2,3,3.0,4,3,3,1600000,114.29,5,3,3,5,4,4,4,4,3,4,3,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+306,1,25,1,3,1,3,4,4,1,1,2,2.0,3,3,3,1300000,92.86,3,4,3,3,3,3,4,4,3,4,2,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+307,1,56,1,3,1,4,5,5,1,1,2,2.0,4,4,3,800000,57.14,4,4,4,3,4,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+308,2,23,2,4,1,3,2,3,2,1,3,1.5,4,4,3,1500000,107.14,4,3,4,4,3,2,2,2,2,3,3,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,4
+309,1,35,1,5,1,5,4,4,1,3,4,4.0,3,3,3,5000000,357.14,4,3,3,4,3,3,2,2,3,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+310,1,37,1,2,1,4,4,3,1,2,3,3.0,4,4,3,1500000,107.14,4,3,3,4,2,3,3,2,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+311,1,40,1,5,1,1,4,4,2,1,3,1.5,4,4,4,2500000,178.57,4,3,3,4,3,3,2,2,3,2,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+312,1,37,1,2,1,4,4,4,1,3,4,4.0,4,3,4,1700000,121.43,4,4,4,4,4,3,3,3,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,2
+313,1,38,1,1,1,4,4,4,3,5,8,2.67,4,4,4,8000000,571.43,4,4,3,4,2,2,2,2,3,4,5,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,3
+314,1,29,1,2,1,4,5,4,1,3,4,4.0,5,5,5,1700000,121.43,3,3,3,5,2,2,4,1,1,1,1,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,5
+315,1,28,1,3,1,3,3,3,5,1,6,1.2,3,3,3,1400000,100.0,3,3,3,3,3,3,3,3,3,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+316,1,42,1,1,1,3,4,3,1,4,5,5.0,2,2,3,1500000,107.14,3,3,4,3,4,5,3,3,3,3,2,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+317,2,18,2,3,1,3,4,4,1,0,1,1.0,4,4,2,1000000,71.43,4,4,4,4,5,2,4,4,4,5,3,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+318,1,24,2,3,1,3,5,5,2,2,4,2.0,4,4,4,2000000,142.86,4,4,4,2,2,2,2,2,2,4,4,Sangat Puas,Laki-laki,Single,Pegawai swasta,4
+319,2,40,4,2,1,5,3,3,1,1,2,2.0,4,4,4,1200000,85.71,4,4,4,5,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Janda,Lainnya,3
+320,1,50,3,2,1,5,4,3,2,1,3,1.5,4,4,4,1900000,135.71,4,4,4,4,3,3,3,3,3,3,4,Sangat Tidak Puas,Laki-laki,Duda,Lainnya,3
+321,1,30,1,3,1,5,4,4,1,1,2,2.0,4,4,4,1700000,121.43,4,4,4,4,3,4,4,4,3,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+322,1,39,1,3,1,5,2,4,1,3,4,4.0,4,4,2,1200000,85.71,4,3,4,2,5,3,5,3,3,2,3,Sangat Puas,Laki-laki,Menikah,Lainnya,3
+323,1,22,2,3,1,5,4,4,1,2,3,3.0,3,3,3,1450000,103.57,4,4,3,4,3,3,3,4,4,4,3,Sangat Tidak Puas,Laki-laki,Single,Lainnya,2
+324,1,48,1,3,3,3,4,4,1,2,3,3.0,4,4,4,2100000,150.0,4,4,4,4,4,3,3,3,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+325,2,40,4,1,1,5,4,4,1,0,1,1.0,4,4,4,800000,57.14,4,4,4,4,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Janda,Lainnya,3
+326,2,21,2,3,1,5,4,4,2,2,4,2.0,4,4,4,1100000,78.57,4,4,4,4,4,4,3,3,3,4,4,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+327,2,22,2,3,1,5,5,5,2,2,4,2.0,4,4,4,1100000,78.57,4,4,4,4,3,3,3,3,3,4,4,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+328,2,22,2,3,1,5,4,4,2,2,4,2.0,4,4,4,1200000,85.71,4,4,4,4,4,4,4,4,3,3,3,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+329,1,50,1,3,1,5,4,4,3,1,4,1.33,3,3,3,1400000,100.0,4,4,4,4,4,3,3,3,4,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+330,2,23,2,5,1,5,4,4,2,1,3,1.5,4,4,4,200000,14.29,4,3,3,3,4,4,4,3,3,3,3,Biasa,Perempuan,Single,Lainnya,3
+331,1,24,2,4,1,3,4,4,2,3,5,2.5,4,4,3,1300000,92.86,4,1,3,2,4,3,3,3,3,3,3,Sangat Puas,Laki-laki,Single,Pegawai swasta,3
+332,2,40,4,1,1,5,3,4,1,1,2,2.0,4,4,4,800000,57.14,3,3,4,2,4,2,3,3,4,4,3,Sangat Puas,Perempuan,Janda,Lainnya,2
+333,2,25,2,3,1,5,4,4,3,1,4,1.33,4,4,4,2200000,157.14,3,3,3,4,3,3,3,3,3,3,3,Sangat Tidak Puas,Perempuan,Single,Lainnya,3
+334,1,22,2,2,1,5,4,4,2,1,3,1.5,4,4,3,1000000,71.43,3,3,3,3,3,3,3,3,3,3,3,Biasa,Laki-laki,Single,Lainnya,3
+335,1,29,1,4,1,3,4,3,2,1,3,1.5,4,5,4,2000000,142.86,4,4,3,4,4,5,4,4,3,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,3
+336,1,38,1,3,1,4,4,4,1,4,5,5.0,4,4,3,2000000,142.86,4,4,3,4,1,1,2,2,2,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Wiraswasta,4
+337,1,27,1,3,1,4,4,4,1,1,2,2.0,4,4,4,3000000,214.29,4,4,4,3,2,2,2,2,2,4,4,Biasa,Laki-laki,Menikah,Wiraswasta,4
+338,2,28,1,5,1,1,4,3,2,1,3,1.5,4,4,5,1500000,107.14,4,4,3,4,3,4,3,4,3,4,3,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+339,1,36,1,3,1,5,4,4,1,3,4,4.0,4,3,3,1200000,85.71,4,4,4,4,4,3,3,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+340,1,38,1,3,1,3,4,4,2,0,2,1.0,4,4,4,1500000,107.14,4,4,4,3,4,3,4,3,3,3,4,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+341,2,23,1,3,1,3,4,4,2,0,2,1.0,4,4,4,2500000,178.57,4,4,4,4,3,3,2,3,3,2,3,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,3
+342,1,33,1,3,1,4,3,4,1,2,3,3.0,3,3,3,3000000,214.29,4,4,3,3,3,3,3,3,4,4,3,Biasa,Laki-laki,Menikah,Wiraswasta,2
+343,2,45,1,6,1,1,4,5,2,3,5,2.5,3,3,4,3500000,250.0,4,4,3,4,4,4,3,3,3,3,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,3
+344,2,40,1,4,1,1,4,4,2,2,4,2.0,4,5,4,3000000,214.29,4,5,4,4,2,2,2,3,2,3,3,Sangat Tidak Puas,Perempuan,Menikah,PNS,4
+345,1,29,1,3,1,5,5,4,2,1,3,1.5,3,4,4,2200000,157.14,5,4,3,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,2
+346,2,28,1,3,1,4,4,5,2,2,4,2.0,4,5,4,1000000,71.43,4,3,4,4,4,5,5,4,5,4,5,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,1
+347,2,19,2,3,1,3,4,4,1,0,1,1.0,4,4,5,2300000,164.29,4,3,2,4,3,3,2,3,4,4,5,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+348,1,25,1,3,1,2,4,5,2,0,2,1.0,4,4,5,2800000,200.0,4,4,5,4,4,4,5,4,4,5,5,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,2
+349,1,30,1,2,1,4,3,4,1,2,3,3.0,3,3,4,2500000,178.57,3,3,3,3,3,3,3,3,3,3,2,Biasa,Laki-laki,Menikah,Wiraswasta,3
+350,1,33,1,3,1,3,3,3,2,1,3,1.5,3,3,3,2000000,142.86,3,4,3,3,3,3,3,3,4,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+351,2,44,1,3,1,3,5,4,2,3,5,2.5,5,4,4,4000000,285.71,4,4,3,5,4,5,4,4,4,5,4,Sangat Tidak Puas,Perempuan,Menikah,Pegawai swasta,2
+352,1,29,1,3,1,3,4,5,1,2,3,3.0,4,4,5,2500000,178.57,4,4,5,4,4,5,4,4,4,4,4,Sangat Tidak Puas,Laki-laki,Menikah,Pegawai swasta,2
+353,1,35,1,3,1,5,4,3,2,1,3,1.5,4,3,2,1500000,107.14,4,3,4,4,3,3,4,2,3,4,2,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+354,1,49,1,5,1,3,4,4,1,3,4,4.0,4,4,4,3000000,214.29,4,4,4,3,3,2,3,2,3,2,3,Biasa,Laki-laki,Menikah,Pegawai swasta,3
+355,1,43,1,5,1,1,4,4,2,1,3,1.5,4,5,4,1500000,107.14,4,4,4,3,3,2,2,3,3,2,2,Biasa,Laki-laki,Menikah,PNS,3
+356,1,48,1,3,1,4,3,3,2,3,5,2.5,4,3,3,10000000,714.29,5,4,3,3,3,3,3,4,3,3,3,Biasa,Laki-laki,Menikah,Wiraswasta,3
+357,2,52,1,5,1,1,5,5,2,3,5,2.5,5,4,5,3000000,214.29,5,4,4,2,3,2,3,3,3,2,3,Sangat Puas,Perempuan,Menikah,PNS,3
+358,1,40,1,2,5,3,3,4,2,1,3,1.5,3,3,4,3000000,214.29,4,4,4,3,3,3,3,4,4,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,2
+359,1,35,1,3,1,4,3,4,1,3,4,4.0,3,3,4,3000000,214.29,4,4,3,3,3,3,3,4,3,4,4,Biasa,Laki-laki,Menikah,Wiraswasta,3
+360,1,49,1,2,1,1,5,4,2,3,5,2.5,5,3,3,2500000,178.57,3,4,3,4,3,4,3,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+361,1,50,1,3,1,2,5,5,3,1,4,1.33,4,4,4,2000000,142.86,4,4,5,4,2,2,2,3,3,2,3,Sangat Tidak Puas,Laki-laki,Menikah,Polisi/Militer,3
+362,1,35,1,5,1,3,4,5,2,3,5,2.5,4,4,4,2000000,142.86,5,4,5,3,2,3,2,3,2,3,2,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+363,1,40,1,2,1,5,4,4,2,2,4,2.0,4,4,4,1600000,114.29,4,4,4,3,2,3,2,3,2,3,2,Biasa,Laki-laki,Menikah,Lainnya,4
+364,2,27,2,5,1,3,4,4,2,1,3,1.5,4,4,3,1000000,71.43,4,4,4,4,5,3,4,5,4,3,4,Sangat Tidak Puas,Perempuan,Single,Pegawai swasta,2
+365,2,49,1,3,1,1,4,4,2,4,6,3.0,2,4,2,2600000,185.71,4,5,4,4,4,4,4,4,4,3,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,2
+366,2,43,1,3,1,4,5,5,2,4,6,3.0,4,4,4,2500000,178.57,5,4,4,4,2,2,2,2,3,3,2,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,3
+367,2,38,4,3,1,4,5,3,1,1,2,2.0,3,3,4,1000000,71.43,3,4,3,3,3,4,3,3,3,3,4,Biasa,Perempuan,Janda,Wiraswasta,3
+368,2,56,1,5,1,4,4,3,2,4,6,3.0,5,3,4,1500000,107.14,3,3,3,5,3,4,3,5,3,5,3,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,3
+369,1,54,1,5,1,1,5,5,3,3,6,2.0,4,5,4,4000000,285.71,5,4,5,3,2,3,3,2,3,2,3,Biasa,Laki-laki,Menikah,PNS,3
+370,2,28,1,5,5,3,3,3,2,3,5,2.5,3,3,3,2000000,142.86,4,3,3,3,4,3,3,3,3,2,3,Biasa,Perempuan,Menikah,Pegawai swasta,3
+371,1,40,1,3,1,5,3,3,2,2,4,2.0,3,3,3,1500000,107.14,3,3,3,4,3,4,4,3,3,3,4,Sangat Tidak Puas,Laki-laki,Menikah,Lainnya,3
+372,1,40,1,3,1,4,4,4,2,2,4,2.0,4,4,4,2000000,142.86,4,5,4,3,2,3,2,3,3,2,3,Biasa,Laki-laki,Menikah,Wiraswasta,3
+373,1,45,1,5,1,3,5,5,2,2,4,2.0,4,5,5,2000000,142.86,5,4,5,3,2,3,3,3,2,3,3,Biasa,Laki-laki,Menikah,Pegawai swasta,4
+374,1,30,1,5,1,3,4,4,2,0,2,1.0,4,4,4,1500000,107.14,4,5,4,2,3,2,3,3,3,3,3,Sangat Puas,Laki-laki,Menikah,Pegawai swasta,3
+375,2,46,1,5,1,1,4,4,2,4,6,3.0,3,3,4,3000000,214.29,5,3,3,4,4,4,4,4,4,4,4,Sangat Tidak Puas,Perempuan,Menikah,PNS,2
+376,2,27,1,4,1,5,5,5,2,0,2,1.0,4,5,4,1000000,71.43,4,4,4,4,2,3,2,3,2,3,2,Sangat Tidak Puas,Perempuan,Menikah,Lainnya,4
+377,2,38,1,3,1,5,4,5,2,2,4,2.0,3,3,4,1000000,71.43,4,3,3,2,3,3,3,3,3,3,3,Sangat Puas,Perempuan,Menikah,Lainnya,3
+378,1,48,1,5,1,1,5,4,1,3,4,4.0,4,5,4,2000000,142.86,4,5,4,2,3,2,3,3,3,3,3,Sangat Puas,Laki-laki,Menikah,PNS,3
+379,2,29,1,3,1,4,5,4,2,1,3,1.5,4,4,4,2000000,142.86,4,5,4,4,4,4,3,4,5,4,4,Sangat Tidak Puas,Perempuan,Menikah,Wiraswasta,1
+380,1,30,1,3,1,4,5,4,2,1,3,1.5,4,4,5,400000,28.57,4,5,4,2,3,3,2,5,2,3,2,Sangat Puas,Laki-laki,Menikah,Wiraswasta,4
+381,1,45,1,3,1,1,5,4,2,3,5,2.5,5,5,5,1500000,107.14,4,5,5,4,4,4,4,3,3,3,3,Sangat Tidak Puas,Laki-laki,Menikah,PNS,3
+382,1,38,1,2,1,5,3,3,1,2,3,3.0,3,4,3,500000,35.71,3,3,4,3,3,3,3,2,3,3,3,Biasa,Laki-laki,Menikah,Lainnya,3
+383,1,40,1,3,1,2,4,5,1,3,4,4.0,4,5,4,3000000,214.29,4,5,4,3,2,3,2,2,3,3,3,Biasa,Laki-laki,Menikah,Polisi/Militer,3
+384,1,30,1,3,1,5,4,4,2,1,3,1.5,4,4,4,1500000,107.14,4,4,4,2,3,2,3,2,3,2,3,Sangat Puas,Laki-laki,Menikah,Lainnya,3
